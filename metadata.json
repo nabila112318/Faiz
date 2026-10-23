@@ -1,0 +1,7 @@
+{
+  "name": "Material Readiness & Risk Monitoring Dashboard",
+  "description": "Dashboard pemantauan kesiapan material dan analisis risiko pengiriman untuk tim PPIC manufaktur berbasis integrasi Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
